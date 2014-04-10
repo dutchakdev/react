@@ -94,3 +94,7 @@ grunt clean
 ### More…
 
 There's only so much we can cram in here. To read more about the community and guidelines for submitting pull requests, please read the [Contributing document](CONTRIBUTING.md).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dutchakdev/react/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
